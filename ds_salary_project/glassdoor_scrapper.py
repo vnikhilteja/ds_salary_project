@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+Created on Fri Aug 28 15:07:20 2020
 
-This is a temporary script file.
+@author: Nikhil teja V
+url: https://github.com/vnikhilteja/ds_salary_project/tree/master/ds_salary_project
 """
 
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
