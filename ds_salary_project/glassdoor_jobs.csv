@@ -1,0 +1,388 @@
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+Senior Principal Data Scientist (Python/R),$212K-$331K (Glassdoor Est.),"Roche Diagnostics has built a new strategic area – Diagnostics Information Solutions (DIS) - charged with creating a modern portfolio of decision support software products that change the way patients are cared for. Our challenge is to bring together complex diagnostic and treatment data from medical devices and IT systems within a hospital and intelligently process and present this data to clinicians, researchers, and caregivers to improve research outcomes and patient care.
+
+As a Senior Principal Data Scientist within the Data Science & Services (DSS) team at DIS, you are responsible for conceptualizing, planning and executing advanced analytics projects to discover key insights improving NAVIFY product portfolio leading to better and more efficient patient care. In close cooperation with other more Scientists you will design and execute advanced analytics projects building on a wide range of commercial and research datasets containing deep medical information.
+
+As a Senior Principal Data Scientist, you will also ensure that design, execution, and presentation of analytical results are adhering to industry standards and potentially improve and redefine current industry standards. You will rely on your oncology expertise, advanced analytical skills, and your ability to interact with cross-functional experts such as biostatisticians, clinical scientists and oncologists, to discover novel insights demonstrating impact of various treatment decisions, and uncover key elements leading to best outcomes for patients. In addition, you will maintain and expand knowledge of available healthcare data sources and applicable state-of-the- art analytical methodologies, large scale data processing and visualization, and languages and tools (R, Python, (no-)SQL, Hadoop, Spark, etc.).
+
+Responsibilities Include:
+Drive data science and analytical software development teams; develop solutions to support insight generation facilitating successful development, verification and commercialization of diagnostics services and products.
+Contribute to broad product support initiatives, lead and deliver on complex projects, and interact with external partners without supervision.
+Maintain and expand knowledge and access to available and meaningful data sources within/outside Roche, and their application to NAVIFY customer needs.
+Perform high quality, timely and accurate analyses using most relevant state-of-the-art methodologies, tools and resources.
+Committed to offering innovation, finding opportunities to enhance ways of working (including processes, methods, technology etc.) and sharing new techniques and lessons learned pro-actively with peers.
+Use and continue to foster strong working relationships with global colleagues and customers and builds a strong network in order to jointly explore vendor relationships, data assets, analytical methodologies and toolsets.
+Build and maintain partnerships with other data scientists and analysts, biostatistics, medical and business leaders, and other key functional experts.
+Responsible for planning and timely delivery of assigned projects.
+Drive creation of best practices to other team members. Proactively share learnings/experience with colleagues both internal and external to the function.
+Act as a positive role model for peers and help coach colleagues to improve in their role with both technical and interpersonal skills.
+Influence as thought leader in your industry and an influential subject matter expert to your team members and the businesses you support.
+Leverage strategic organizational awareness and systems mindset to implement sustainable, science based practices.
+Who you are:
+Data savvy creative thinker, problem solver and mentor.
+Reliable team player, strong collaborator with ability to influence and a thought partner/leader. Organizationally savvy, systems thinker.
+Excellent communication skills, effective stakeholder management ability. Life learner, constructive at giving and receiving feedback.
+Strong solution finding, resiliency and a sense of ownership; Effective prioritization skills, attention to detail and accuracy; Adaptable, embraces and endorses change.
+Minimum Skills and Experience:
+Master’s degree (PhD strongly preferred) in a Data Science or related field (e.g. Computer Science, Statistics, Mathematics, Bioinformatics, etc.) required plus 16 years of experience; or PhD and 12 years of experience.
+Graduate training or experience in biological/medical field is highly preferred.
+Strong background in Oncology, either by education or professional experience.
+Strong Programming experience with R, Python, and/or other quantitative software.
+Strong experience in applying statistical modeling, machine learning, exploratory, and confirmatory data analysis in mid to large volume biomedical data sets.
+Experience using big data platforms such as Hadoop (Spark is a plus).
+In-depth knowledge of relational database principles and corresponding query language skills (e.g. SQL) is of interest.
+Familiarity with regulatory framework and guidelines for pharma/diagnostics products is a plus.
+Good knowledge of English in a business environment.
+Excellent communication skills with an ability to negotiate successfully; strong influencing skills; self-contained and outgoing approach.
+Strong solution finding, prioritization and attention to details skills while embracing/endorsing change.
+Roche is an equal opportunity employer.
+
+Research & Development, Research & Development > Modelling & Simulation",4.1,"Roche Holding Ltd
+4.1","Pleasanton, CA",-1,10000+ Employees,1896,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1
+Data Scientist/Machine Learning,$212K-$331K (Glassdoor Est.),"Data Scientist/Machine Learning
+
+Mist, a Juniper Company, is the first vendor to bring enterprise-grade Wi-Fi, BLE and IoT together through a highly scalable cloud architecture. At Mist, we built the first AI-empowered platform to provide an unprecedented visibility into the user experience. Mist is the new global standard for many fortune 500 companies.
+
+The mission of the Data Science team at Mist is to leverage state-of-art ML and AI technologies to build the next-generation self-driving network solution, which can take actions on behalf of or together with human experts to automatically monitor, detect and remediate common network issues. The team includes a group of experienced and talented data scientists and data science engineers, and builds the end-to-end data analytics infrastructure and ML models of the product.
+
+Now we are looking for a Senior Data Scientist to help define and expand this mission. As a data scientist, you will collaborate with product managers and domain experts to identify use-impacting real customer problems, use your deep DS/ML knowledge to develop data-driven solution with terabytes data, and work closely with data engineers to implement and scale the models in production.
+
+Qualifications/Requirements:
+• MS or PhD in Computer Science, Electrical Engineering, Statistics, Applied Math or equivalent fields with strong mathematical background
+• Excellent understanding of machine learning techniques and algorithms, including clustering, anomaly detection, optimization, neural network etc
+• 3+ years experiences building data science-driven solutions including data collection, feature selection, model training, post-deployment validation
+• Strong hands-on coding skills (preferably in Python) processing large-scale data set and developing machine learning models
+• Familiar with one or more machine learning or statistical modeling tools such as Numpy, ScikitLearn, MLlib, Tensorflow
+• Good team worker with excellent communication skills written, verbal and presentation
+
+Desired Experience:
+• Experience with AWS, S3, Flink, Spark, Kafka, ElasticSearch
+• Knowledge and experience with NLP technology
+• Previous work in a start-up environment
+
+Juniper Networks is enrolled in E-Verify® and will be participating in E-Verify in addition to our Form I-9 process. www.dhs.gov/E-Verify
+Juniper Networks is an Equal Opportunity/Affirmative Action Employer.",3.8,"Juniper Networks, Inc.
+3.8","Cupertino, CA",-1,5001 to 10000 Employees,1996,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),-1
+Senior Applied Scientist,$212K-$331K (Glassdoor Est.),"Company Overview*
+Spiketrap’s AI-powered consumer intelligence platform helps global brands make better, more informed decisions, based on audience conversation. Our real-time data allows you to analyze brand perception, campaign performance, and identify trends from the most robust collection of data sources specific to the video game and entertainment industries.
+Job Description*
+Here at Spiketrap we are on a journey to understand natural language at scale by leveraging and designing novel machine learning and NLP technologies. You'll be joining our Science team and together we'll solve complex problems at the intersection between natural language and data visualization.
+What you will be doing*
+Design and develop solutions to improve our ability to understand and generate natural language
+Collaborate across research, engineering, product management, and design to implement scalable and robust solutions to power insights for our customers
+Maintain technical documents and communicate results to diverse audiences with effective writing, visualizations, and presentations
+What you have*
+5+ years of professional industry experience
+You have a PhD or Master's degree in Computer Science or related field
+Strong analytical and quantitative skills
+Ability to review and write scientific papers
+Extensive experience at manipulating data and drawing insights from large data sets
+Knowledge and experience with a variety of machine learning techniques and their real-world advantages and drawbacks
+Ability to clearly and effectively communicate the results of complex analysis to a broad audience
+At Spiketrap we welcome and encourage a diverse and supportive culture. You'll be working in a humble, hardworking, and above all, collaborative workplace. We look for people who are creative, curious, and aim to be a little better every single day.
+
+Job Type: Full-time
+
+Benefits:
+401(k)
+401(k) Matching
+Dental Insurance
+Flexible Schedule
+Health Insurance
+Life Insurance
+Paid Time Off
+Parental Leave
+Vision Insurance
+Schedule:
+Monday to Friday
+COVID-19 considerations:
+Spiketrap is currently working from home due to the Covid19 pandemic, however, the expectation for this position would be to relocate, if necessary, to the San Francisco Bay Area once it is safe.
+
+Education:
+Master's (Required)
+Work authorization:
+United States (Required)
+Application Question:
+Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)?
+Company's website:
+www.spiketrap.io
+Benefit Conditions:
+Waiting period may apply
+Only full-time employees eligible
+Work Remotely:
+Temporarily due to COVID-19",-1,Spiketrap Inc,"San Francisco, CA",-1,1 to 50 Employees,2016,Unknown,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+Senior Food Scientist,$212K-$331K (Glassdoor Est.),"Senior Food Scientist *
+We’re looking for a Product Developer/ Senior Food Scientist who thrives on the excitement of developing and innovating natural syrup products and contributing to project teams that are re-shaping the product portfolio.
+
+YOU are a passionate product developer with a history of successful launches. Your background includes formulation experience across multiple manufacturing processes, ingredient types, and product lines. You have a strong understanding of flavor chemistry and can create amazing flavor combinations. You prefer to work in a high-energy, collaborative product development environment where you can take initiative. You’re practiced at taking new product ideas from concept through commercialization.
+
+You’re the type of person who moves easily from project to project. You are a ‘go-to’ for development of natural flavor systems and ingredient functionality. Your “can do” attitude, relationship-building talent, and engaging communication skills make you an effective partner in and outside of Torani.
+
+Look out a year from now: You’re being recognized as one of our most innovative contributors. You’ve developed an “out-of-the-box” formulation for a new natural syrup that exceeded expectations. You have become the anchor of the syrup cultivation team.
+SUCCESS FACTORS (FIRST 12-18 MONTHS) *
+_Overall _
+
+ *New Products*: You have renovated and commercialized one product line and key line extensions at target cost, on time, and on trend. You’ve delivered amazing, customer-preferred, easy-to-use flavor with simple, natural ingredients.
+
+ *Formula Renovation*: You have used your bench skills to improve existing products to beat competition in preference taste tests.
+
+ *Collaboration*: Strong relationships are in place across the organization and with external partners, as demonstrated by the successful, smooth launch of new products and integrated ways of working with partner functions. You are a leader on the R+D team.
+
+ *Project Management: * Your project management excellence is evident through fulfillment of your product plans and milestones. You are a go-to product development expert and go between line extension, cost optimization, and flavor improvement initiatives. You are detail oriented and can stick to set timelines.
+
+ *Expertise: * Has brought synergistic technical expertise to enhance our capabilities, and has helped us deliver the more natural, simple profiles that have expanded our product portfolio and grown our new product business.
+
+ *Has a little fun along the way! *
+MINIMUM QUALIFICATIONS & ATTRIBUTES: *
+ Bachelor’s Degree in food science or related discipline, Master’s preferred
+At least 7 years of relevant, progressive experience in beverage or flavor product development
+ Successfully developed consumer-preferred, delicious products with no artificial ingredients
+ Experience developing products from concept to commercialization, including: Writing and documenting formulas and specifications, Calculating costs, Conducting plant trials Positive collaboration with internal and external manufacturing partners
+ Implemented test protocols for sensory and shelf life studies
+ Demonstrated experience in applied flavor chemistry
+ Practiced with working in product data management systems (eg Oracle PLM or similar)
+ Demonstrated ability to manage multiple projects well
+ Live in SF Bay Area or willing to relocate at own expense
+ Eligible to work in US without sponsorship (now & in the future)
+ Proficient in Word, Excel, and Outlook
+
+Torani is one of the fastest growing and dynamic specialty food companies in the Bay Area. Perhaps you’ve been wondering if there’s a right company fit, where you might combine your deep expertise with purposeful work. If your core beliefs and values resonate with “Flavor for All, Opportunity for All”, we hope you’ll feel the spark. We’re dedicated to bringing our superb portfolio of natural flavorful products to people of diverse needs and incomes. And while our legacy of team and community focus started quietly in our passion for people development, it will flourish with B Corp certification. Torani is recognized as one of the most fun, friendly and warm companies you’ll come across.
+_*_
+_*_*
+
+Job Type: Full-time
+
+Experience:
+Oracle: 1 year (Preferred)
+Excel: 1 year (Preferred)
+Microsoft Word: 1 year (Preferred)
+Communication Skills: 1 year (Preferred)
+Microsoft Outlook: 1 year (Preferred)
+Additional Compensation:
+Bonuses
+Work Location:
+One location
+Benefits:
+Health insurance
+Dental insurance
+Vision insurance
+Paid time off
+Flexible schedule
+Parental leave
+Professional development assistance
+This Company Describes Its Culture as:
+Detail-oriented -- quality and precision-focused
+Innovative -- innovative and risk-taking
+Team-oriented -- cooperative and collaborative",3.5,"R. Torre & Company
+3.5","South San Francisco, CA",-1,51 to 200 Employees,1925,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable,-1
+Food Scientist,$212K-$331K (Glassdoor Est.),"SUMMARY:
+This position, under general supervision, is responsible for leading product development projects developing moderately complex formulas, processing procedures, and specifications for new products and product enhancements to meet project parameters and customer needs. The incumbent may also provide technical support to Marketing, Sales, Operations, and external customers.
+
+DUTIES AND RESPONSIBILITIES:
+Develops experimental formulas, processing procedures, and specifications for raw ingredients, subassemblies and finished products for simple new products, product improvements, and cost reductions that meet project parameters of established pricing, marketing goals, food regulations, and operational feasibility.
+Organizes and manages moderately complex test runs to validate or modify experimental formulas and processing procedures to develop final specifications for the production of finished products and ensure reproducibility.
+Works with team members to ensure successful start-ups of new products, product improvements, cost reductions, and ingredient, formula, specification, or process changes.
+Provides technical solutions to production issues as it relates to ingredient, formulas, processing procedures, and specifications to ensure continuous production of existing products and maintain product quality and safety.
+Documents work according to established procedures and guidelines, provides timely and effective oral and written communication and prepares various project reports to project team and project leader to ensure complete communication of project status, progress, issues, solutions, timeline, and accountability.
+Supports innovation in the development of new ideas, new products or new product platforms through ideation sessions and bench top experimentation, along with the ability to effectively communicate the concept.
+Works with Food Scientists to identify and implement projects involving new processes, processing technology, and equipment.
+
+SKILLS AND QUALIFICATIONS:
+Bachelor of Science degree in Food Science, Culinology, Foods and Nutrition Studies, Plant Science, Biological Sciences, Engineering or related fields.
+3-5 years related experience.
+Intermediate communication and interpersonal skills.
+Intermediate PC skills including Microsoft Office Suite, particularly Excel and Word.
+Intermediate knowledge of Algebra, Geometry, Physics, Chemistry, and Statistics.
+Intermediate knowledge and understanding of food ingredients, food chemistry, food processing, and food functionality.
+Ability to comprehend moderately complex technical articles, research papers, or presentation.
+Must be able to apply technical knowledge learned.
+Intermediate ability to define problems, collect data, establish facts, draw valid conclusions, and offer solutions.
+Ability to taste and ingest any type of food product currently under development.
+Preferred experience in Product Development.
+SupHerb Farms is an Equal Opportunity Employer",3.6,"SupHerb Farms
+3.6","Turlock, CA",-1,51 to 200 Employees,-1,Subsidiary or Business Segment,Food Production,Agriculture & Forestry,$10 to $25 million (USD),-1
+Scientist/Senior Scientist - Molecular Biology,$212K-$331K (Glassdoor Est.),"GenEdit is an early stage company developing the next-generation therapeutics for genetic and other diseases through safe and efficient delivery of gene therapeutic drugs. Our technology platform is based on non-viral, biocompatible polymer nanoparticles for the targeted in vivo delivery of nucleic acids, proteins, or ribonucleic acid-protein complexes (RNP) to specific organs or cell types. GenEdit fosters a dynamic start-up environment where self-driven, enthusiastic employees thrive. We are based in South San Francisco, CA and currently expanding across all functions within the organization.
+Job Description*
+The position focuses on developing and applying next generation sequencing and other genomic technologies for efficient and high throughput measurement of non-viral vector distributions across cell types in small and large animal models. This full-time position scientist will be responsible for designing, generating and screening DNA-based libraries to facilitate the development of nanoparticles for future gene therapy programs.
+
+This is a unique opportunity to work at the intersection of genomics and therapeutics and participate in the development of a transformative technology. The successful candidate will be a highly collaborative, resourceful, and effective team-player who is enthusiastic in tackling challenging complex scientific and technical problems with novel approaches and solutions.
+Experience and Requirements*
+· PhD in molecular biology, biochemistry, biomedical engineering, or a related field
+
+· Extensive experience with molecular biology, design, and generation of DNA libraries.
+
+· Knowledge and understanding of using next-generation sequencing.
+
+· Experience using various _in vitro_ expression systems and _in vivo _models.
+
+· Transition new technologies from proof-of-concept to standardized workflow
+
+· Educate and train teams to understand and apply newly developed methods
+
+· Knowledge and hands-on experience with CRISPR-Cas9 or nucleic acid delivery a plus
+
+· Experience in primary cell culture or nanoparticle formulation is plus
+
+· Some experience with using Python or other scripts for data analysis
+
+· Highly motivated scientist with attention to detail and the ability to independently plan, design and implement experiments
+
+· Work authorization in the US required.
+
+Job Type: Full-time
+
+Benefits:
+401(k)
+Dental Insurance
+Health Insurance
+Paid Time Off
+Vision Insurance
+Schedule:
+Monday to Friday
+Education:
+Doctorate (Required)
+Work authorization:
+United States (Required)
+Company's website:
+www.genedit.com
+Benefit Conditions:
+Only full-time employees eligible
+Work Remotely:
+No",-1,GenEdit Inc,"South San Francisco, CA",-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Scientist,$212K-$331K (Glassdoor Est.),"ArsenalBio’s mission is to develop efficacious and safe cellular therapies for patients with chronic diseases, initially cancer. Our products are being designed to herald the transition of adoptive cell therapy from a hospital based treatment to outpatient therapy, like most other cancer treatments. Our people are our greatest asset, they bring scientific talents in molecular biology, immunology, pharmacology, protein chemistry, computational biology, automation, genome engineering, software and other fields to make the future happen now.
+
+We are seeking an outstanding Scientist to lead research efforts in areas of immunology that are key to understanding cancer immunity, including T cell and NK cell biology, as well as components of the tumor microenvironment. Strongest consideration will be given to candidates with demonstrated expertise in molecular or synthetic immunology and whose research interests are relevant to the problem of T cell development, mechanisms of immunosuppression, and next generation adoptive cell therapies. The successful candidate is expected to effectively lead cross-functional teams
+What You Will Do:
+Lead and drive studies applying cellular immunology, gene editing, single-cell sequencing and mouse modeling to address T cell dysfunction
+Discovery and evaluation of novel mechanisms of tumor resistance to innate and adaptive immunity
+Design and execution of cell-based functional assays to select candidate molecules for clinical development
+Design and execution of drug mechanism of action studies using in vivo models and ex vivo methods, such as cell sorting, multi-color flow cytometry, immunohistochemistry/immunofluorescence, primary immune cell assays and 3D/organoid/explant assays.
+Drive scientific and technical innovation collaboratively with other members of the company
+Identify new ways to make better CAR T cells and collaborate with other ArsenalBio teams to move novel product concept designs to the clinic.
+Provide exceptional scientific leadership and mentor and cross-train other scientists and research associates
+
+What You Will Bring:
+PhD, MD, DVM, or MD/DVM-PhD with at least 3 years of relevant post-doctoral research experience in Immunology, Biochemistry or Molecular Biology.
+A strong work ethic, a steadfast commitment to discovery research and a documented ability to initiate, drive and complete research projects, as evidenced by a strong publication record.
+Ability to manage an independent research program and to lead a cross-functional research team
+Outstanding written and oral communication skills and the ability to organize and communicate complex data sets in a clear and concise manner to key stakeholders from diverse backgrounds are essential
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status
+
+To all recruitment agencies: ArsenalBio does not accept agency resumes. Please do not forward resumes to our jobs alias, or Arsenalbio employees. ArsenalBio is not responsible for any fees related to unsolicited resumes.",5.0,"ArsenalBio
+5.0","South San Francisco, CA",-1,51 to 200 Employees,2019,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,-1
+Transportation Data Analyst III,$212K-$331K (Glassdoor Est.),"About the Opportunity
+The Transportation Data Analyst III is responsible to develop and maintain data analytics to measure and drive outstanding service and financial performance of the transportation and customs compliance network, across the United States, Mexico and Canada. Ability to work in a fast pace environment; partnering with management and team members to develop dynamic analytics within transportation and customs compliance that will guide continuous business improvement decisions to optimize service and financial performance.
+Responsibilities
+Engage with leadership and team members within transportation, customs compliance, and cross functionally, to create data analytics around key performance and financial metrics to identify data driven business decisions.
+Create, develop and manage analytics using Excel, SQL and Tableau.
+Analyze, model, mine, and interpret data generate new ideas through a deep understanding of the data, supply chain, customers and business.
+Manage large databases that include data from various sources.
+Translate data into actionable insights.
+Manage report data quality, stability, scalability and trustworthiness over time.
+Conduct exploratory analysis for improvement opportunities in business areas not actively monitored by stakeholders.
+Present business insights, data, and KPI’s to team members and leadership.
+Oversee the process to pay carriers weekly, and perform month end reporting.
+Develop and implement SOP’s to effectively manage data and reporting.
+Candidate Profile
+
+
+Bachelor’s degree in Supply Chain/ Logistics / Business Analytics with 3+yrs years’ experience in supply chain, logistics and/or transportation / customs compliance.
+Excellent oral and written communications skills with the ability to communicate professionally and effectively at multiple levels both inside and outside of the organization.
+Highly proficient with Tableau, SQL, and Microsoft Office applications, including Excel, Word, Power Point and Outlook.
+Strong track record of performing high impact business analysis and building useful data tools with tangible business results.
+Strong storytelling – interpreting insights into a concise and compelling story others can embrace.
+Possess a thorough understanding of transportation finance, operations, internal systems and network functions.
+Complete tasks and projects in an accurate, timely, and efficient manner.
+Ability to thrive in a fast paced, and collaborative environment with a diverse group of individuals.
+Bilingual – English/Spanish preferred.
+Perform other duties as assigned by Driscoll’s management.
+Driscoll's",4.2,"Driscoll Strawberry Associates Inc
+4.2","Watsonville, CA",-1,1001 to 5000 Employees,1900,Company - Private,Food Production,Agriculture & Forestry,$2 to $5 billion (USD),-1
+Principal Data Scientist,$212K-$331K (Glassdoor Est.),"About Figure
+
+At Figure, we're on a mission to transform financial services through blockchain, bringing speed, efficiency and savings to both consumers and institutions.
+
+Accomplishing this kind of transformation requires building really big things. And we understand that building big requires a creative, team oriented and supportive environment where everyone can do their absolute best work. The Figure team is comprised of incredibly driven, innovative, collaborative and curious people who love architecting and building from scratch. Everyone at the company is encouraged to be an individual contributor but also a team collaborator.
+
+We value team members who bring an entrepreneurial mindset to every task and will embrace our culture of innovation. Every day at Figure is a journey in continuous learning yet a daily focus on getting work done that makes a difference.
+
+This is an opportunity to work with a team of proven leaders who have already created billions of dollars in value in the Fintech space. Join us!
+
+About the Role
+
+Each member of the Data team plays an integral part of what we are building at Figure. We rely on advanced techniques in machine learning, cloud platforms and big data to drive decisions across the organization. If you are interested in working with an impressive team of Data pros who collaborate and challenge each other, and want to solve interesting problems to propel the company's growth, apply now!
+
+What You'll Do
+Develop custom models and algorithms to apply to large datasets, as well as, processes for monitoring and analyzing their performance.
+Mine and analyze data from different resources, and use predictive modeling to increase and optimize customer experiences, customer acquisition, underwriting and other business outcomes.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Work with stakeholders throughout the organization to identify opportunities for leveraging data to drive business decisions.
+Understand and apply proper risk framework to your analysis and modeling.
+Collaborate cross functionally to implement models and monitor outcomes.
+What We Look For
+8+ years of hands on Data Science experience building Models and partnering with stakeholders to make business decisions
+Credit and Risk modeling experience in consumer finance
+Strong problem solving skills with an emphasis on translating real-life problems into a concrete model development strategy. Blend academic rigor with a sense of pragmatism for rapidly prototyping and delivering solutions.
+Experienced in using Python for analysis and modeling (TensorFlow is a big plus)
+Experience applying a wide range of statistical techniques to large data sets, and understanding their real-world advantages/drawbacks.
+Experience using web services (AWS, GCP), and distributed data/computing tools (Spark, Map/Reduce, Hadoop, Hive, etc.)
+Excellent cross-functional communication skills.
+Ability to thrive in a fast-paced environment.
+Benefits To You
+Competitive salary based on experience and skills
+Firm-wide performance based bonus
+Competitive stock options package as an early member of the team
+A flexible paid time off and vacation policy
+Comprehensive health, vision, dental insurance
+Company FSA, 401k, work from home benefits
+And much more to come!
+Figure will not sponsor work visas for this position. In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.",4.3,"Figure Technologies Inc
+4.3","San Francisco, CA",-1,201 to 500 Employees,2018,Company - Private,Lending,Finance,Unknown / Non-Applicable,-1
+Senior Data Scientist,$212K-$331K (Glassdoor Est.),"The world's first customer platform helping internet businesses accelerate growth
+
+
+Intercom builds a suite of products that provide modern internet businesses a new and better way to acquire, engage and retain customers. Today more than 25,000 businesses, including New Relic, Sotheby's, and Shopify, use Intercom to connect with a billion unique people worldwide.
+
+Intercom is a deeply creative company with the confidence to believe it can fundamentally change the future of internet business. Our people are incredibly ambitious, yet humble. Warm, accepting, and positive. Whether you build, market, sell, or support product, we want you to make your mark with us.
+
+What's the opportunity?
+
+
+At Intercom, Analytics & Data Science teammates partner with every function in the organization in order to help teams make data-informed decisions and take data-informed actions. We're highly quantitative individuals who love to turn data into insights and communicate our findings fearlessly, and we're looking for people with a similar mindset who are constantly curious, driven to understand our business better, and committed to creating value.
+
+In this role, you will partner with go-to-market teams across Intercom (including Marketing, BizOps, Finance, Growth R&D, and Sales) to measure new initiatives and make data-driven recommendations around go-to-market strategy. In addition to being experienced analytically, we're looking for someone who can proactively surface recommendations and insights, who's comfortable prioritizing work across multiple stakeholders, and who can work across the analytics and data stack in order to solve problems. If this sounds like you, we would love to hear from you!
+
+To give you a sense of some specific projects you might work on, here are a few of our recent workstreams: understanding how users respond to new pricing & packaging, understanding and modeling drivers of expansion, analyzing the customer signup experience, measuring the performance of paid advertising campaigns, prioritizing the leads our sales team should reach out to, and many more.
+
+What will I be doing?
+Evaluating the performance of our go-to-market strategies and initiatives by analyzing customer funnels and metrics (new business, retention, CAC, LTV, churn, etc.)
+Partnering with go-to-market teams at Intercom to help them better understand their functional areas, build understanding and use of our data, and set a high bar for analytics across the organization
+Building data science models to accelerate the business by providing deeper insights into prospect and customer behaviors
+Creating dashboards that allow internal consumers to gain insight into the performance of their functional areas
+Constructing reusable data pipelines for company-wide use
+Monitoring the state of the business on a regular basis and generating data-driven hypotheses and action items in order drive business impact
+What skills do I need?
+4+ years of work experience in analytics/data science or a directly related field – some of which should be in a technology business
+A proven track record of initiating and delivering actionable analyses/recommendations in order to drive business impact
+An understanding of SaaS business models and key metrics
+Some experience building data science models to provide deeper insights
+Excellent communication skills (technical and non-technical) and comfort working with high-level stakeholders
+Ability to work autonomously in a dynamic environment
+Excellent SQL skills, fluency with BI/visualization tools, and deep knowledge of Excel, R, Python, or other analysis tools
+Strong critical reasoning skills, including understanding of common pitfalls of data analysis
+Benefits
+
+
+We are a well-treated bunch, with awesome benefits! If there's something important to you that's not on this list, talk to us! :)
+Competitive salary and meaningful equity
+Catered lunch every weekday, plus a variety of snack foods and a fully stocked kitchen
+Fully funded comprehensive medical, dental, and vision coverage
+Open vacation policy and 10 corporate holidays
+Paid Parental Leave Program
+401k plan
+In-office bicycle storage
+Fun events for Intercomrades, friends, and family!
+*Proof of eligibility to work in the United States is required.
+
+Intercom values diversity and is committed to a policy of Equal Employment Opportunity. Intercom will not discriminate against an applicant or employee on the basis of race, color, religion, creed, national origin, ancestry, sex, gender, age, physical or mental disability, veteran or military status, genetic information, sexual orientation, gender identity, gender expression, marital status, or any other legally recognized protected basis under federal, state, or local law.",3.7,"Intercom
+3.7","San Francisco, CA",-1,501 to 1000 Employees,2011,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1
